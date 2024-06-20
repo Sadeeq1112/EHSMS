@@ -1,5 +1,5 @@
 
-            <footer class="footer" style="  position: fixed;right: 0;bottom: 0;width: 100%;text-align: center;"><b> Developed by Nikhil Bhalerao : +91 9423979339 - <marquee>I am Fulltime freelancer available for PHP,CI and Laravel Programming work.</marquee></b></footer> 
+            <footer class="footer" style="  position: fixed;right: 0;bottom: 0;width: 100%;text-align: center;"><b> HASSANATU 2024</b></footer> 
             
         </div>
    
